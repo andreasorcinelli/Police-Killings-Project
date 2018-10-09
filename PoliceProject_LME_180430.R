@@ -1,7 +1,6 @@
 #setting working directory 
 setwd("~/Desktop/")
 
-
 #loading Data 
 Police=read.csv("PoliceKillings_ProcessedData_Yearly_180429.csv",header=TRUE)
 summary(Police)
