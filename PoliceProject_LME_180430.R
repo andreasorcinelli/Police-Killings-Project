@@ -1,5 +1,6 @@
 #setting working directory 
-setwd("~/Documents/01_Personal/03_Job_Stuff/02_Applications/02_The Data Incubator/02_Capstone Proposal/02_Processed_Data/csv/")
+setwd("~/Desktop/")
+
 
 #loading Data 
 Police=read.csv("PoliceKillings_ProcessedData_Yearly_180429.csv",header=TRUE)
